@@ -19,3 +19,5 @@ On this dataset I have performed <b>EDA</b> and <b>sentiment analysis</b> of rev
 <li>XGBoost - Extreme Gradient Boost alsorithm is based on the Gradient Boosting model which uses the boosting technique of ensemble learning where the underfitted data of the weak learners are passed on to the strong learners to increase the strength and accuracy of the model.</li>
 <li>Decision Tree - This algorithm works on the basis of creating tree structures to take decisions</li>
 <li>Random Forest - This algorithm works on the concept of emsemble learning.It used bagging technique to train multiple predictors on the same sampled instances to achieve a higher degree of accuracy.</li>
+
+XGBoost gave highest accuracy among all . Test accuracy : 83%
