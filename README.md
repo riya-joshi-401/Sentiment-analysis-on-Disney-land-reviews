@@ -11,7 +11,7 @@
 <li>Review_Text: comments made by visitor</li>
 <li>Disneyland_Branch: location of Disneyland Park</li>
 <br>
-On this dataset I have performed EDA and sentiment analysis of review using metrics like <b>Sentiment Polarity</b> and <b>VADER Polarity</b> in <b>NLP</b> and created <b>wordclouds</b> for better visulaization.This processed data is then feeded to different classifier models to get trained and predict the sentiment of the test reviews.
+On this dataset I have performed <b>EDA</b> and <b>sentiment analysis</b> of reviews using metrics like <b>Sentiment Polarity</b> and <b>VADER Polarity</b> in <b>NLP</b> and created <b>wordclouds</b> for better visulaization.This processed data is then feeded to different classifier models to get trained and predict the sentiment of the test reviews.
 <br>
 <br>
 <ins>Models used:</ins><br>
