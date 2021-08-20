@@ -4,11 +4,11 @@
 
 <ins>Column Description:</ins>
 
-<ol>Review_ID: unique id given to each review</ol>
-<ol>Rating: ranging from 1 (unsatisfied) to 5 (satisfied)</ol>
-<ol>Year_Month: when the reviewer visited the theme park</ol>
-<ol>Reviewer_Location: country of origin of visitor</ol>
-<ol>Review_Text: comments made by visitor</ol>
-<ol>Disneyland_Branch: location of Disneyland Park</ol>
+<li>Review_ID: unique id given to each review</li>
+<li>Rating: ranging from 1 (unsatisfied) to 5 (satisfied)</li>
+<li>Year_Month: when the reviewer visited the theme park</li>
+<li>Reviewer_Location: country of origin of visitor</li>
+<li>Review_Text: comments made by visitor</li>
+<li>Disneyland_Branch: location of Disneyland Park</li>
 
 On this dataset I have performed EDA and sentiment analysis of reviews.
