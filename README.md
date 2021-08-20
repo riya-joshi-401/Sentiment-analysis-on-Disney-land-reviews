@@ -1,1 +1,1 @@
-# Sentiment-analysis-on-Disnely-land-reviews
+# Sentiment-analysis-on-Disney-land-reviews
