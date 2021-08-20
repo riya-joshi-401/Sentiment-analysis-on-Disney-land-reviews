@@ -20,4 +20,4 @@ On this dataset I have performed <b>EDA</b> and <b>sentiment analysis</b> of rev
 <li>Decision Tree - This algorithm works on the basis of creating tree structures to take decisions</li>
 <li>Random Forest - This algorithm works on the concept of emsemble learning.It used bagging technique to train multiple predictors on the same sampled instances to achieve a higher degree of accuracy.</li>
 <br>
-XGBoost gave highest accuracy among all . Test accuracy : 83%
+<ins>XGBoost gave highest accuracy among all . Test accuracy : 83%</ins>
